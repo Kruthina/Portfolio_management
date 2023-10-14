@@ -5,7 +5,7 @@ The Asset Portfolio Allocation with Unsupervised Learning for portfolio optimisa
 
 ## Installation
 
-git clone 
+
 ```
 pip install -r requirements.txt
 ```
